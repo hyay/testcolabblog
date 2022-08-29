@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
-categories: [markdown]
-title: An Example Markdown Post
+description: 딥러닝 설명
+categories: [deep learning]
+title: 딥러닝 포스팅
 ---
 # Example Markdown Post
 
